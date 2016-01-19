@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MoniOmega.github.io
+title: Moni Omega
+paginate: 10
